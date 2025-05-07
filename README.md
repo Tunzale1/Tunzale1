@@ -1,5 +1,4 @@
-### Hi, I’m Imanova Tunzala! 👋
-- 👀 I’m Full Stack Develoer
+### Hi, I’m Imanova Tunzala! 👋 and I'm Full Stack Develoer
 <img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tunzale1&theme)">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tunzale1&label=Profile%20views&color=0e75b6&style=flat" alt="tunzale1" /> </p>
 
