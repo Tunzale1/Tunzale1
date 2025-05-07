@@ -1,6 +1,5 @@
 ### Hi, I’m Imanova Tunzala! 👋
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React.js
+- 👀 I’m Full Stack Develoer
 <img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tunzale1&theme)">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tunzale1&label=Profile%20views&color=0e75b6&style=flat" alt="tunzale1" /> </p>
 
