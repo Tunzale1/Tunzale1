@@ -1,7 +1,7 @@
 <div align="center">
   
 <!-- Profile Banner -->
-<img width="100%" src="https://images.unsplash.com/photo-1517180102446-f3ece451e9d8?w=1000&h=300&fit=crop&crop=center&q=80&fm=jpg&dpr=1" alt="Profile Banner"/>
+<img width="100%" src="https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&h=300&q=80" alt="Female Developer Working - Professional Banner"/>
 
 <!-- Animated Welcome Text -->
 <h1>
@@ -19,7 +19,7 @@
 
 ## 🔥 About Me
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Female Developer Programming" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
 - 🔭 I'm currently working on **Full Stack Development Projects**
 - 🌱 I'm currently learning **Advanced React & Node.js**
@@ -139,7 +139,7 @@
   
 ### ✨ "Code is like humor. When you have to explain it, it's bad." - Cory House
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60"> 
 
 **Thank you for visiting my profile! Feel free to reach out for collaborations or just to say hi!** 
 
