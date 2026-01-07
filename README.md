@@ -21,12 +21,12 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🔭 I'm currently working on **Full Stack Development Projects**
-- 🌱 I'm currently learning **Advanced React.js & Next.js**
+- 🔭 I'm currently working on **full-stack projects with a focus on data-driven features**
+- 🌱 I'm currently learning **Data Analysis, Machine Learning fundamentals, and Python for Data Science**
 - 👯 I'm looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **React, JavaScript, Python, Web Development**
+- 💬 Ask me about **Python, data analysis, basic ML, SQL, and web development**
 - 📫 How to reach me: **tunzalimanova516@gmail.com**
-- ⚡ Fun fact: **I love solving coding challenges!**
+- ⚡ Fun fact: **I enjoy turning raw data into meaningful insights**
 
 <br clear="both">
 
