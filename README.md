@@ -32,27 +32,6 @@
 
 ---
 
-## 📊 GitHub Stats & Badges
-
-<div align="center">
-  
-### 🏆 GitHub Profile Stats
-  
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tunzale1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tunzale1&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
-
-### 🔥 GitHub Streak & Activity
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tunzale1&theme=tokyonight&hide_border=false" alt="Tunzale1's streak"/>
-
-### 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=Tunzale1&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&column=7" alt="Tunzale1's trophies"/>
-
 ### 📈 Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tunzale1&bg_color=1a1b27&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true" alt="Tunzale1's contribution graph"/>
