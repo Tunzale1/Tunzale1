@@ -1,7 +1,7 @@
 <div align="center">
   
 <!-- Profile Banner -->
-<img width="100%" src="https://i.pinimg.com/1200x/fe/eb/ef/feebef44d38c3fbeed18d589f733c8d3.jpg" alt="Profile Banner"/>
+<img width="100%" src="https://i.pinimg.com/1200x/38/e7/09/38e709bd3fb73d8f4c3017107963eb18.jpg" alt="Profile Banner"/>
 
 <!-- Animated Welcome Text -->
 <h1>
