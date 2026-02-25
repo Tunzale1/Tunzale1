@@ -32,11 +32,10 @@
 
 ---
 
-### 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tunzale1&bg_color=1a1b27&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true" alt="Tunzale1's contribution graph"/>
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tunzale1&bg_color=1a1b27&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true" alt="Tunzale1's contribution graph"/>
 
-</div>
+</div> -->
 
 ---
 
@@ -85,10 +84,10 @@
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
 
-### 📍 Location
-<img src="https://img.shields.io/badge/Azerbaijan-🇦🇿-blue?style=for-the-badge" alt="Location"/>
 
-</div>
+<!-- <img src="https://img.shields.io/badge/Azerbaijan-🇦🇿-blue?style=for-the-badge" alt="Location"/>
+
+</div> -->
 
 ---
 
